@@ -3,7 +3,7 @@ Piraguero is a Django ecommerce app for quickly building sleek, minimal, and cus
 
 ![store](https://i.ibb.co/1dVDfbZ/Piraguero-Main.png)
 
-The store is designed with simplicity and efficiency in mind, allowing customers to build a cart and checkout without registering an account.
+The store is designed with simplicity and efficiency in mind, allowing customers to build a cart and checkout without registering an account. It also features a minimalist, fast-loading Bootstrap design. This can be left as default or modified to fit your needs.
 
 ![cart](https://i.ibb.co/QcCMTBH/Piraguero-Cart.png)
 
