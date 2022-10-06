@@ -7,7 +7,7 @@ The store is designed with simplicity and efficiency in mind, allowing customers
 
 ![cart](https://i.ibb.co/QcCMTBH/Piraguero-Cart.png)
 
-The app uses cookies to store cart data and passes order information to the database once a purchase is complete, automatically creating accounts based on email addresses. This allows user to submit multiple orders under a single email address without registration.
+The app uses cookies to store cart data and passes order information to the database once a purchase is complete, automatically creating accounts based on email addresses. This allows users to submit multiple orders under a single account without registration.
 
 ![checkout](https://i.ibb.co/9TSyZtT/Piraguero-Checkout-Final.png)
 
