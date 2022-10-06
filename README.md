@@ -1,5 +1,5 @@
 # piraguero
-Piraguero is a Django ecommerce app for quickly building sleek, minimal, and customizable no-registration online stores with PayPal.
+Piraguero is a Django ecommerce app for quickly building customizable, no-registration online stores with PayPal.
 
 ![store](https://i.ibb.co/1dVDfbZ/Piraguero-Main.png)
 
