@@ -11,7 +11,7 @@ The app uses cookies to store cart data and passes order information to the data
 
 ![checkout](https://i.ibb.co/9TSyZtT/Piraguero-Checkout-Final.png)
 
-The store can be easily customized through the Django admin panel to add and set prices your own products.
+The store can be easily customized through the Django admin panel to set your own products and prices.
 
 Additionally, the app has built-in support for PayPal business accounts and digital products without shipping.
 
