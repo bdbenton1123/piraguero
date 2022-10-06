@@ -11,10 +11,10 @@ The app uses cookies to store cart data and passes order information to the data
 
 ![checkout](https://i.ibb.co/9TSyZtT/Piraguero-Checkout-Final.png)
 
-The store can be easily customized through the Django admin panel to add and customize your own products and prices.
+The store can be easily customized through the Django admin panel to add and customize your own products.
 
-Additionally, the app has built-in support for PayPal business accounts and digital products that don't require shipping.
+Additionally, the app has built-in support for PayPal business accounts and digital products without shipping.
 
-Piraguero is perfect for small businesses or on-site ordering interfaces such as digital touchscreen menus for restaurants.
+Piraguero is perfect for small businesses or ordering interfaces such as on-site touchscreen menus.
 
-The app is named in honor of the self-starting piragua cart owners of Puerto Rico found across the United States.
+The app is named in honor of the self-starting piragua cart owners of Puerto Rico.
